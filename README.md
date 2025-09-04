@@ -111,7 +111,7 @@ Q4 shows seasonal spikes → align marketing campaigns.
 ✅ Conclusion
 This project demonstrates how SQL + Power BI can turn raw sales data into actionable insights, empowering businesses to make smarter, data-driven decisions.
 
-📫 Contact
+📫 Let's Connect
 Anurag Kaushik (anuragkdatanalyst@gmail.com)
 https://www.linkedin.com/in/anuragkaushik-analytics/
 https://github.com/Anurag1993-git
