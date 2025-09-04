@@ -1,4 +1,4 @@
-# sales-performance-dashboard-sqlserver-powerbi
+# Sales-Performance-Dashboard-SQL Server-Power BI
 
 Developed an interactive Sales Performance Dashboard using SQL and Power BI to analyze revenue, product trends, and regional performance, enabling data-driven business decisions.
 
