@@ -58,7 +58,7 @@ The dataset includes transactional sales records with details on orders, custome
 📦 sales-performance-dashboard
 ┣ 📂 data # Dataset files (CSV/Excel)
 ┣ 📂 sql-scripts # SQL queries for cleaning & extraction
-┣ 📂 powerbi # Power BI dashboard files
+┣ 📂 Power BI # Power BI dashboard files
 ┣ 📂 images # Screenshots of dashboards
 ┗ 📜 README.md # Documentation
 
@@ -66,7 +66,6 @@ The dataset includes transactional sales records with details on orders, custome
 
 ## 🗂️ Data Model
 ![Data Model](images/data_model.png)  
-*(Optional: Add ERD diagram here showing relationships between Orders, Customers, Products, Salespersons)*  
 
 ---
 
