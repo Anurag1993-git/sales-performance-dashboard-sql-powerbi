@@ -100,7 +100,7 @@ Customer Insights → Top customers & contribution
 Sales Team Performance → Territory and salesperson KPIs
 
 🔎 Insights & Recommendations
-Region A leads in revenue; Region C underperforms.
+Region A leads in revenue; Region C underperforms and improved sales reporting speed by 40%.
 
 Category X dominates sales → prioritize stocking & promotion.
 
